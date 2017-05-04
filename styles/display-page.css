@@ -1,0 +1,47 @@
+.container {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	border: thick dashed red;
+	font-size: 0;
+
+}
+
+.block {
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.green, .blue {
+	height: 200px;
+	width: 50%;
+
+}
+
+.grey, .black, .orange {
+	height: 300px;
+	width: 33.33%;
+
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+
+}
+
+.grey {
+	background-color: grey;
+}
+
+.black {
+	background-color: black;
+
+}
+
+.orange {
+	background-color: orange;
+}
