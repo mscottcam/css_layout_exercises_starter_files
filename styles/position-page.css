@@ -50,6 +50,6 @@ div {
 }
 
 body {
-	background-image: url("./images/outerspace_landscape.jpeg");
-	background-position: 100%;
+	background-image: url("../images/outerspace_landscape.jpeg");
+	background-size: 100%;
 }
